@@ -1,3 +1,6 @@
 # 1stDwmo
 This is a demo for git &amp; github....
 This is the change.
+
+
+This is text from  vs code....
